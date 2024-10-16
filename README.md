@@ -12,7 +12,7 @@
 
 # Contacto
 
-![hcalmur@gmail](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim")
+![hcalmur@gmail](https://skillicons.dev/icons?i=gmail")
 
 # Habilidades
 
