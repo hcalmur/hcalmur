@@ -1,5 +1,4 @@
 #  <img src="./images/sticker.jpg" width=10% align=right />
-
 <img src="./images/jetson.jpg" width="950" height="250"  borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'>
 
 ### Quien soy
