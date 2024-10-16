@@ -2,7 +2,7 @@
 
 ** Actualmente trabajando en el área de TI en el sector educativo **
 
-<img src="./images/jetson.jpg" width="650" height="150"  borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'>
+<img src="./images/jetson.jpg" width="950" height="250"  borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'>
 
 - :wave: Hola, Soy @hcalmur
 - :eyes: Mis pasatiempos favoritos son el biale :dancer: y la lectura :books:
