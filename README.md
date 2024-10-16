@@ -12,7 +12,7 @@
 
 # Contacto
 
-![hcalmur@gmail](https://skillicons.dev/icons?i=gmail")
+[![hcalmur@gmail.com](https://skillicons.dev/icons?i=gmail)](hcalmur@gmail.com)
 
 # Habilidades
 
