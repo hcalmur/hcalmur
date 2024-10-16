@@ -1,6 +1,8 @@
-<img src="./images/michael-fousert-v96gcVQdTgU-unsplash.jpg" width=10% align=right />
+#  <img src="./images/sticker.jpg" width=10% align=right />
 
-#
+** Actualmente trabajando en el área de TI en el sector educativo **
+
+<img src="./images/olena-bohovyk-dIMJWLx1YbE-unsplash.jpg" borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'>
 
 - :wave: Hola, Soy @hcalmur
 - :eyes: Mis pasatiempos favoritos son el biale :dancer: y la lectura :books:
