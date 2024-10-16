@@ -16,7 +16,7 @@
 
 # Habilidades
 
-[![Habilidades](https://skillicons.dev/icons?i=bash,git,docker,vim,github,gitlab,kali,linux.md,obsidian,py,debian,redhat,ubuntu,windows&perline=4)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=bash,git,docker,vim,github,gitlab,kali,linux,md,obsidian,py,debian,redhat,ubuntu,windows&perline=4)](https://skillicons.dev)
 
 <!---
 hcalmur/hcalmur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
