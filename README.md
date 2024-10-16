@@ -2,7 +2,7 @@
 
 ** Actualmente trabajando en el área de TI en el sector educativo **
 
-<img src="./images/olena-bohovyk-dIMJWLx1YbE-unsplash.jpg" width="150" height="150"  borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'>
+<img src="./images/olena-bohovyk-dIMJWLx1YbE-unsplash.jpg" width="450" height="150"  borderRadius='1rem' boxShadow='0 5px 18px rgba(0,0,0,0.3)'>
 
 - :wave: Hola, Soy @hcalmur
 - :eyes: Mis pasatiempos favoritos son el biale :dancer: y la lectura :books:
