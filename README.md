@@ -1,4 +1,6 @@
-# <img src="./images/michael-fousert-v96gcVQdTgU-unsplash.jpg" width=10% align=right />
+<img src="./images/michael-fousert-v96gcVQdTgU-unsplash.jpg" width=10% align=right />
+
+#
 
 - :wave: Hola, Soy @hcalmur
 - :eyes: Mis pasatiempos favoritos son el biale :dancer: y la lectura :books:
