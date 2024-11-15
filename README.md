@@ -2,7 +2,6 @@
 
 ### Quien soy
 
-- :wave: Hola, Soy @hcalmur
 - :eyes: Mis pasatiempos favoritos son el biale :dancer: y la lectura :books:
 - :seedling: Actualmente estoy en cursos sobre ciberseguridad
 
