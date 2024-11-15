@@ -1,10 +1,5 @@
 ![Header](./images/github-header-image.png)
 
-### Quien soy
-
-- :eyes: Mis pasatiempos favoritos son el biale :dancer: y la lectura :books:
-- :seedling: Actualmente estoy en cursos sobre ciberseguridad
-
 ### Contacto
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:hcalmur@gmail.com)
