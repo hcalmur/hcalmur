@@ -1,5 +1,4 @@
-![Header](./images/github-header-image.png)
-#  <img src="./images/sticker.jpg" width=10% align=right />
+![Header](./images/github-header-image(4).png)
 
 ### Quien soy
 
